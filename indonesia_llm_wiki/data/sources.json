@@ -1,0 +1,92 @@
+[
+  {
+    "id": "S01",
+    "title": "RMRG — Indonesia",
+    "url": "https://rmrg.me/indonesia/",
+    "coverage": "整體植被、農業、屋頂裝飾、橋樑與宗教",
+    "accessed": "2026-11-21",
+    "ingestion_method": "web readable text; manually structured paraphrased claims",
+    "status": "ingested",
+    "licensing": "Check source / image license before redistribution"
+  },
+  {
+    "id": "S02",
+    "title": "RMRG — Sumatra",
+    "url": "https://rmrg.me/sumatra/",
+    "coverage": "蘇門答臘環境與地區辨識",
+    "accessed": "2026-11-21",
+    "ingestion_method": "web readable text; manually structured paraphrased claims",
+    "status": "ingested",
+    "licensing": "Check source / image license before redistribution"
+  },
+  {
+    "id": "S03",
+    "title": "RMRG — Java",
+    "url": "https://rmrg.me/java/",
+    "coverage": "爪哇建築、農業與地形",
+    "accessed": "2026-11-21",
+    "ingestion_method": "web readable text; manually structured paraphrased claims",
+    "status": "ingested",
+    "licensing": "Check source / image license before redistribution"
+  },
+  {
+    "id": "S04",
+    "title": "RMRG — Kalimantan",
+    "url": "https://rmrg.me/kalimantan/",
+    "coverage": "加里曼丹區域景觀與建築",
+    "accessed": "2026-11-21",
+    "ingestion_method": "web readable text; manually structured paraphrased claims",
+    "status": "ingested",
+    "licensing": "Check source / image license before redistribution"
+  },
+  {
+    "id": "S05",
+    "title": "RMRG — Sulawesi & Maluku",
+    "url": "https://rmrg.me/sulawesi-maluku/",
+    "coverage": "蘇拉威西與馬魯古地形",
+    "accessed": "2026-11-21",
+    "ingestion_method": "web readable text; manually structured paraphrased claims",
+    "status": "ingested",
+    "licensing": "Check source / image license before redistribution"
+  },
+  {
+    "id": "S06",
+    "title": "RMRG — Nusa Islands",
+    "url": "https://rmrg.me/nusa-islands/",
+    "coverage": "峇里至帝汶等努沙群島",
+    "accessed": "2026-11-21",
+    "ingestion_method": "web readable text; manually structured paraphrased claims",
+    "status": "ingested",
+    "licensing": "Check source / image license before redistribution"
+  },
+  {
+    "id": "S07",
+    "title": "GeoPinning — Indonesia",
+    "url": "https://geopinning.space/en/rule/asia/indonesia/",
+    "coverage": "國家線索、行政區與農業",
+    "accessed": "2026-11-21",
+    "ingestion_method": "web readable text; manually structured paraphrased claims",
+    "status": "ingested",
+    "licensing": "Check source / image license before redistribution"
+  },
+  {
+    "id": "S08",
+    "title": "Indonesian Poletops",
+    "url": "https://logan.nmd.louisrielatc.ca/playground/2023/09/19/indonesian-poletops/",
+    "coverage": "電線桿 even/uneven 分布",
+    "accessed": "2026-11-21",
+    "ingestion_method": "web readable text; manually structured paraphrased claims",
+    "status": "ingested",
+    "licensing": "Check source / image license before redistribution"
+  },
+  {
+    "id": "S09",
+    "title": "AcademyGeo — Indonesia",
+    "url": "https://academygeo.com/en/atlas/id",
+    "coverage": "變壓器電線桿與黃色里程標",
+    "accessed": "2026-11-21",
+    "ingestion_method": "web readable text; manually structured paraphrased claims",
+    "status": "ingested",
+    "licensing": "Check source / image license before redistribution"
+  }
+]

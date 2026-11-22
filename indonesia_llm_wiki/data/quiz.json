@@ -1,0 +1,146 @@
+[
+  {
+    "id": "Q01",
+    "question": "成排油棕園最優先保留哪些候選？",
+    "options": [
+      "蘇門答臘與加里曼丹",
+      "峇里與努沙佩尼達",
+      "爪哇與馬都拉"
+    ],
+    "answer": 0,
+    "claim_ids": [
+      "C06",
+      "C49"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  },
+  {
+    "id": "Q02",
+    "question": "山地大片茶園首先想到？",
+    "options": [
+      "西爪哇",
+      "東松巴",
+      "邦加島"
+    ],
+    "answer": 0,
+    "claim_ids": [
+      "C09",
+      "C25"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  },
+  {
+    "id": "Q03",
+    "question": "即使看到 Even poletop，最合理的做法？",
+    "options": [
+      "立即選峇里",
+      "再找另一組獨立線索",
+      "排除爪哇"
+    ],
+    "answer": 1,
+    "claim_ids": [
+      "C50",
+      "C51"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  },
+  {
+    "id": "Q04",
+    "question": "看到 Siger 皇冠橋頭圖案？",
+    "options": [
+      "優先考慮楠榜",
+      "優先考慮北馬魯古",
+      "確認為萬丹"
+    ],
+    "answer": 0,
+    "claim_ids": [
+      "C13"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  },
+  {
+    "id": "Q05",
+    "question": "乾燥草丘、稀疏樹木、偏東側海岸？",
+    "options": [
+      "北蘇門答臘",
+      "東北松巴",
+      "西加里曼丹"
+    ],
+    "answer": 1,
+    "claim_ids": [
+      "C45"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  },
+  {
+    "id": "Q06",
+    "question": "看見 Kab. 與清楚行政區名？",
+    "options": [
+      "優先利用地名定位",
+      "忽略文字，只看植物",
+      "Kab. 指國家"
+    ],
+    "answer": 0,
+    "claim_ids": [
+      "C47"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  },
+  {
+    "id": "Q07",
+    "question": "有黃色／藍色橋頭，可以直接定北馬魯古？",
+    "options": [
+      "可以",
+      "不行，須比較欄杆顏色和其他線索"
+    ],
+    "answer": 1,
+    "claim_ids": [
+      "C14",
+      "C15"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  },
+  {
+    "id": "Q08",
+    "question": "低地白砂及濕地石楠林更值得考慮哪裡？",
+    "options": [
+      "中加里曼丹局部",
+      "馬都拉東部",
+      "巴厘島南端"
+    ],
+    "answer": 0,
+    "claim_ids": [
+      "C30"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  },
+  {
+    "id": "Q09",
+    "question": "Maros 一帶醒目石灰岩喀斯特？",
+    "options": [
+      "南蘇拉威西",
+      "廖內",
+      "亞齊"
+    ],
+    "answer": 0,
+    "claim_ids": [
+      "C36"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  },
+  {
+    "id": "Q10",
+    "question": "若資訊不足以區分兩省，最佳策略？",
+    "options": [
+      "硬選最精細 Kabupaten",
+      "保留候選並降低判斷確定性",
+      "相信單株椰子樹"
+    ],
+    "answer": 1,
+    "claim_ids": [
+      "C01",
+      "C53"
+    ],
+    "origin": "source-derived synthetic practice question; not a geolocated Street View case"
+  }
+]
